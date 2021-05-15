@@ -51,7 +51,70 @@
 Money can't buy you love—but it can sponsor a new Linux distro.
 ```
 
-![20210514_160349_44](image/20210514_160349_44.png) 
+![20210514_160349_44](image/20210514_160349_44.png)
+
+
+* <https://accounts.rockylinux.org/>
+
+![20210514_160926_31](image/20210514_160926_31.png)
+
+![20210514_161136_41](image/20210514_161136_41.png)
+
+![20210514_161132_57](image/20210514_161132_57.png)
+
+
+![20210515_102335_47](image/20210515_102335_47.png)
+
+* 这里的个人头像使用的是libravatar，登录注册一通搞，之后就是。。
+* 这个libravatar玩法是酱紫滴，其实是个跨站访问，打开页面会请求libravatar，传递当前用户基本信息，然后显示。因此只要libravatar配置好，上传图片，各种邮箱验证都ok，自然就会显示
+
+![20210515_104045_71](image/20210515_104045_71.png)
+
+## 兴趣组Group
+
+![20210515_104129_68](image/20210515_104129_68.png)
+
+* 想加入，请联系大佬拉你
+* 除了发邮件，还有啥？
+
+![20210515_104345_80](image/20210515_104345_80.png)
+
+![20210515_104359_36](image/20210515_104359_36.png)
+
+## Bug Report
+
+* <https://bugs.rockylinux.org/>
+
+![20210515_105936_24](image/20210515_105936_24.png)
+
+## 论坛
+
+
+* <https://forums.rockylinux.org/>
+* 目前活跃度并不高
+
+
+![20210515_110946_50](image/20210515_110946_50.png)
+
+
+## 相关邮件地址
+
+
+| Team           | Contact                       |
+| -------------- | ----------------------------- |
+| Community      | community@rockylinux.org      |
+| Design         | design@rockylinux.org         |
+| Development    | development@rockylinux.org    |
+| Documentation  | documentation@rockylinux.org  |
+| Security       | security@rockylinux.org       |
+| Infrastructure | infrastructure@rockylinux.org |
+| Web            | web@rockylinux.org            |
+
+For all other questions: hello@rockylinux.org
+
+
+
+
 
 
 
